@@ -1,5 +1,4 @@
-from list_CRUD import *
-from data import load_presents
+from file_CRUD import *
 
 presents = load_presents()
 
